@@ -1,0 +1,51 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  padding: 40px;
+  background-image: url("src/images/sky.jpg");
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+
+.content {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 10px;
+  color: #272343;
+  background-color: #8daecf;
+  text-decoration: none;
+}
+
+.container {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.weather_frame {
+  max-width: 500px;
+  background-color: #ffffff;
+  margin: 0 auto;
+  padding: 40px;
+  border-radius: 10px;
+  font-size: 38px;
+  text-decoration: none;
+}
+
+.current_weather_icon {
+  font-size: 100px;
+}
+
+.footer {
+  font-size: 15px;
+  text-align: center;
+}
+
+.forecast {
+  font-size: 24px;
+  color: #ffffff;
+}
+.today {
+  font-size: 20px;
+}
