@@ -1,7 +1,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   padding: 40px;
-  background-image: url("src/images/sky.jpg");
+  background-image: url("sky.jpg");
   text-decoration: none;
 }
 a {
