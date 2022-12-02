@@ -11,11 +11,12 @@ a {
 .content {
   max-width: 600px;
   margin: 0 auto;
-  padding: 40px;
+  padding: 30px;
   border-radius: 10px;
   color: #272343;
   background-color: #8daecf;
   text-decoration: none;
+  opacity: 80%;
 }
 
 .container {
